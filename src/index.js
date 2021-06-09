@@ -9,3 +9,6 @@ const divRoot = document.querySelector('#root');
 
 ReactDOM.render(<GifExpertApp />, divRoot);
 
+function () => {
+    dasda
+}
